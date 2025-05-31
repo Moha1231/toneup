@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914885950086",
+    "firebase_url": "https://meet-804c5-default-rtdb.firebaseio.com",
+    "project_id": "meet-804c5",
+    "storage_bucket": "meet-804c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914885950086:android:2c2142620e7b2916ad6f07",
+        "android_client_info": {
+          "package_name": "com.meet.recovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914885950086-hki8qcs1t1eg1lfi1i5kb755lqt8vfk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnuKUpnZYev5csYbBVY1_dYLAHZ6LCnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914885950086-hki8qcs1t1eg1lfi1i5kb755lqt8vfk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "914885950086-5rgn5fb3k8bar5gb96udefkifk63vb0r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meet.recovery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

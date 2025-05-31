@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>914885950086-5rgn5fb3k8bar5gb96udefkifk63vb0r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.914885950086-5rgn5fb3k8bar5gb96udefkifk63vb0r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>914885950086-jh91sdg1h0lavm7jvpihjsfceeih37gq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA0xy1P_lZctpEfhU804A6r2zTLTMQbh_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>914885950086</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.meet.recovery</string>
+	<key>PROJECT_ID</key>
+	<string>meet-804c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meet-804c5.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:914885950086:ios:8fffa1c54615b847ad6f07</string>
+	<key>DATABASE_URL</key>
+	<string>https://meet-804c5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
