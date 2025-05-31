@@ -20,7 +20,7 @@ class MeetingActionGroup extends StatelessWidget {
           shapeRadius: Vx.dp0,
           color: model.selectedAction == 0
               ? null
-              : AppColor.accentColor.withValues(alpha: 0.50),
+              : AppColor.accentColor,
           onPressed: () => model.changeMeetingView(0),
         ).expand(),
         //create/host
@@ -29,7 +29,7 @@ class MeetingActionGroup extends StatelessWidget {
           shapeRadius: Vx.dp0,
           color: model.selectedAction == 1
               ? null
-              : AppColor.accentColor.withValues(alpha: 0.50),
+              : AppColor.accentColor,
           onPressed: () => model.changeMeetingView(1),
         ).expand(),
       ],
