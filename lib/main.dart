@@ -14,7 +14,7 @@ void main() async {
   await AuthServices.getPrefs();
   await Firebase.initializeApp();
   //setting up firebase notifications
-  await FirebaseService.setUpFirebaseMessaging();
+//  await FirebaseService.setUpFirebaseMessaging();
   await MobileAds.instance.initialize();
   //
   await translator.init(
