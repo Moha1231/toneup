@@ -43,7 +43,7 @@ dependencies:
   quickalert: ^1.1.0
   random_string: ^2.3.1
   rename_app: ^1.6.2
-  share_plus: ^9.0.0
+  share_plus: ^11.0.0
   shared_preferences: ^2.0.15
   singleton: ^0.0.2
   stacked: ^3.4.0
